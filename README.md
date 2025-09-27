@@ -1,15 +1,14 @@
-# Beatriz Lima
+# 👩🏻‍💻 Beatriz Lima
 
 
 Me chamo Beatriz Lima Morais, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na PUSP. Admiro a capacidade da tecnologia se diversificar em diferantes campos e situações presentes no cotidiano das pessoas, por isso, me dedico a aprender diferentes áreas da tecnologia.
 
 <p align="left">
 <br>
-<br>
 <h3>Contatos</h3>
 
 [![gmail](https://img.shields.io/badge/gmail-C35F50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizlima@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-3F6F8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grazielle-batista-de-almeida-704844288/)
+[![linkedin](https://img.shields.io/badge/linkedin-3F6F8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grazielle-batista-de-almeida-704844288/](https://www.linkedin.com/in/beatriz-morais-799164323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 
   
@@ -54,7 +53,7 @@ Me chamo Beatriz Lima Morais, tenho 19 anos e sou natural de São Paulo. Atualme
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bialim_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=bialim_icons&show=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
