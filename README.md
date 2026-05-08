@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Beatriz Lima
 
 
-Me chamo Beatriz Lima Morais, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na UNICID. Admiro a capacidade da tecnologia se diversificar em diferantes campos e situações presentes no cotidiano das pessoas, por isso, me dedico a aprender diferentes áreas da tecnologia.
+Me chamo Beatriz Lima Morais, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na UNICID. Admiro a capacidade da tecnologia se diversificar em diferantes campos e situações presentes no cotidiano das pessoas, por isso, me dedico a aprender diferentes áreas da tecnologia.
 
 <p align="left">
 <br>
