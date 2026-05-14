@@ -8,7 +8,7 @@ Me chamo Beatriz Lima Morais, tenho 20 anos e sou natural de São Paulo. Atualme
 <h3>Contatos</h3>
 
 [![gmail](https://img.shields.io/badge/gmail-C35F50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizlima@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-3F6F8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grazielle-batista-de-almeida-704844288/](https://www.linkedin.com/in/beatriz-morais-799164323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![linkedin](https://img.shields.io/badge/linkedin-3F6F8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-morais-799164323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 
   
